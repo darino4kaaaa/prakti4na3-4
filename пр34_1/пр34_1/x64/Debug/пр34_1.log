@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Ready2Go\source\repos\пр34_1\пр34_1\MyForm.h(150,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  пр34_1.vcxproj -> C:\Users\Ready2Go\source\repos\пр34_1\x64\Debug\пр34_1.exe
